@@ -1,0 +1,95 @@
+{
+    "1234": {
+        "name": "Sugar",
+        "price": 12.0,
+        "quantity": 2325,
+        "category": "Food"
+    },
+    "1235": {
+        "name": "Salt",
+        "price": 123.0,
+        "quantity": 669,
+        "category": "Food"
+    },
+    "1236": {
+        "name": "Rice",
+        "price": 12.0,
+        "quantity": 678,
+        "category": "Food"
+    },
+    "1237": {
+        "name": "Soap",
+        "price": 87.0,
+        "quantity": 56786,
+        "category": "House"
+    },
+   "1238": {
+    "name": "Shampoo",
+    "price": 150.0,
+    "quantity": 4300,
+    "category": "Personal Care"
+ },
+
+    "1239": {
+        "name": "Toothpaste",
+        "price": 45.0,
+        "quantity": 3200,
+        "category": "Personal Care"
+    },
+    "1240": {
+        "name": "Bread",
+        "price": 25.0,
+        "quantity": 1500,
+        "category": "Food"
+    },
+    "1241": {
+        "name": "Butter",
+        "price": 60.0,
+        "quantity": 1100,
+        "category": "Food"
+    },
+    "1242": {
+        "name": "Cheese",
+        "price": 100.0,
+        "quantity": 900,
+        "category": "Food"
+    },
+    "1243": {
+        "name": "Milk",
+        "price": 22.0,
+        "quantity": 5000,
+        "category": "Food"
+    },
+    "1244": {
+        "name": "Coffee",
+        "price": 75.0,
+        "quantity": 2500,
+        "category": "Beverages"
+    },
+    "1245": {
+        "name": "Tea",
+        "price": 50.0,
+        "quantity": 3000,
+        "category": "Beverages"
+    },
+    "1246": {
+        "name": "Juice",
+        "price": 30.0,
+        "quantity": 4000,
+        "category": "Beverages"
+    },
+    "1247": {
+        "name": "Water Bottle",
+        "price": 20.0,
+        "quantity": 10000,
+        "category": "Beverages"
+    },
+    "1248": {
+        "name": "Chocolate",
+        "price": 10.0,
+        "quantity": 8000,
+        "category": "Snacks"
+    }
+
+
+}

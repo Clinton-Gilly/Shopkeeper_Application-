@@ -1,0 +1,43 @@
+[
+    {
+        "1234": {
+            "name": "Sugar",
+            "price": 12.0,
+            "quantity": 2
+        },
+        "1235": {
+            "name": "Salt",
+            "price": 123.0,
+            "quantity": 7
+        }
+    },
+    {
+        "customer_name": "Clinton Kiplagat",
+        "customer_phone": "0715329007",
+        "order_details": {
+            "1235": {
+                "name": "Salt",
+                "price": 123.0,
+                "quantity": 2
+            }
+        },
+        "total": 246.0
+    },
+    {
+        "customer_name": "Gilly",
+        "customer_phone": "0110631681",
+        "order_details": {
+            "1237": {
+                "name": "Soap",
+                "price": 87.0,
+                "quantity": 3
+            },
+            "1234": {
+                "name": "Sugar",
+                "price": 12.0,
+                "quantity": 5
+            }
+        },
+        "total": 321.0
+    }
+]
