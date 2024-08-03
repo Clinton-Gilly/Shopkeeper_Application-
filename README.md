@@ -25,3 +25,6 @@ The Shop Management System is a Python-based application designed to manage a sm
    ```bash
    git clone https://github.com/Clinton-Gilly/Shopkeeper_Application-.git
    cd Shopkeeper_Application-
+
+
+pass    `7722 `
